@@ -1,0 +1,41 @@
+
+*{
+    box-sizing: border-box;
+
+}
+.container{
+    width: 90vw;
+    background-color: green;
+    border: 3px solid black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    width: 300px;
+    order: 5px solid black;
+    margin: 30px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 6px 6px 10px;
+    overflow: hidden;
+
+}
+.box img{
+    width: 100%;
+}
+.text{
+    text-align: center;
+    align-items: center;
+}
+.text h2{
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+}
+.text p{
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+}

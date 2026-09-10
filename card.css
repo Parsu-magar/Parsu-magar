@@ -1,0 +1,47 @@
+
+
+.container
+{
+    width: 95vw;
+}
+.container{
+    background-color: burlywood;
+    border: 3px solid black;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 3px 3px 1px black;
+    border-radius: 20px;
+    overflow: hidden;
+
+}
+
+/* .himalayan{
+    width: 600px;
+    background-color: gray;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 1px black;
+
+} */
+
+.himalayan h1{
+    text-align: center;
+    color: white;
+}
+.himalayan p{
+    text-align: center;
+    color: white;
+}
+.himalayan img{
+    width: 100%;
+
+}
+.red h2{
+    background-color: pink;
+    color: white;
+
+}
