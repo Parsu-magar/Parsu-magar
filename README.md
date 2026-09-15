@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm currently learning and I'm looking to collaborate with someone.
 
 <!--
 **Parsu-magar/Parsu-magar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
